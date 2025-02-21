@@ -23,7 +23,8 @@
 </head>
 <body>
     <video autoplay loop>
-        <source src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif" type="video/mp4">
+        <source src="![image](https://github.com/user-attachments/assets/39d34fe1-bfc6-4be5-9f1c-4e9e9fa5bd94)
+" type="video/mp4">
         Ваш браузер не поддерживает видео.
     </video>
 </body>
