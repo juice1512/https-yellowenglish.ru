@@ -23,8 +23,7 @@
 </head>
 <body>
     <video autoplay loop>
-        <source src="![image](https://github.com/user-attachments/assets/39d34fe1-bfc6-4be5-9f1c-4e9e9fa5bd94)
-" type="video/mp4">
+        <source src="https://media1.tenor.com/m/x8v1oNUOmg4AAAAd/rickroll-roll.gif" type="video/mp4">
         Ваш браузер не поддерживает видео.
     </video>
 </body>
