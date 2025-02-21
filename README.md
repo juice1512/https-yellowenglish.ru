@@ -23,7 +23,7 @@
 </head>
 <body>
     <video autoplay loop>
-        <source src="https://upload.wikimedia.org/wikipedia/ru/6/61/Rickrolling.gif" type="video/mp4">
+        <source src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif" type="video/mp4">
         Ваш браузер не поддерживает видео.
     </video>
 </body>
